@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.anubhavguptaexpo.NewsApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7c5c0224-323b-446f-a06d-92c5b32fa0de"
+      }
+    },
+    "owner": "anubhavguptaexpo"
   }
 }
