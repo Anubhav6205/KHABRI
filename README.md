@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
 
-<head>
-  <title>Khabri News App</title>
-</head>
 
 <body>
 
@@ -43,7 +38,7 @@
   <a href="https://drive.google.com/file/d/1PwEYfX19SPokpk9ZPZ4MbBfAJWnJekZX/view">Download APK</a>
 
   <h2>Contributing</h2>
-  <p>We welcome contributions! Please feel free to submit pull requests.</p>
+  <p>I welcome contributions! Please feel free to submit pull requests.</p>
 
   <h2>Contact</h2>
   <p>If you have any questions or suggestions, feel free to contact us at <a href="mailto:contact@example.com">contact@example.com</a>.</p>
