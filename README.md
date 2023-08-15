@@ -4,6 +4,12 @@
 
   <h1>Welcome to Khabri News App!</h1>
 
+  
+
+
+https://github.com/Anubhav6205/KHABRI/assets/82750157/fc00a6d8-3753-40f4-b057-8064611d8f79
+
+
   <h2>Tech Stacks</h2>
   <ul>
     <li>React Native</li>
